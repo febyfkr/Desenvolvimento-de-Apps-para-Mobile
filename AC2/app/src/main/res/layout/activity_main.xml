@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!-- ============================================================
      ACTIVITY_MAIN.XML
      Alteração em relação à AC1:
      O Spinner de Filtro (spFiltro) agora usa @array/filtro_categorias
      que inclui a opção "Todos" como primeiro item.
      ============================================================ -->
-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:padding="12dp"
