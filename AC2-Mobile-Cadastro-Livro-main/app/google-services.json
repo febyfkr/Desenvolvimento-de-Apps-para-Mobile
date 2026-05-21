@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239302495975",
+    "project_id": "projetomobile-dcb63",
+    "storage_bucket": "projetomobile-dcb63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239302495975:android:e33d6efe416d1aff365c42",
+        "android_client_info": {
+          "package_name": "AC2.Mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5RMVqMeZ3hLWoPSllTalm_FfUVm-0sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239302495975:android:bc4461389e710710365c42",
+        "android_client_info": {
+          "package_name": "com.example.ac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5RMVqMeZ3hLWoPSllTalm_FfUVm-0sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

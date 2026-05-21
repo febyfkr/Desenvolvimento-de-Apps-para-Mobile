@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AC2</string>
+
+    <string-array name="spGenero">
+        <item>Comédia</item>
+        <item>Fantásia</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+
+    <string-array name="spStatus">
+        <item>Quero Ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+
+    <string-array name="spFiltro">
+        <item>Comédia</item>
+        <item>Fantásia</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
